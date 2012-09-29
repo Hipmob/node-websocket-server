@@ -1,5 +1,5 @@
 {
-    "version":"0.4.0",
+    "version":"0.4.1",
     "description":"A WebSocket Server for node.js, 90-100% spec compatible.",
     "repository": { 
 	"type":"git",
